@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="none">
   <test name="Test">
     <classes>
-      <class name="com.hybrid.com.hybridtest.AppTest"/>
+      <class name="com.hybrid.com.hybridtest.Getit"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
